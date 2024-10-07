@@ -35,7 +35,7 @@ const GlobeSection = () => {
                         Own Real World Assets Across the Globe
                     </h2>
                     <p className="text-lg text-gray-700 mb-6">
-                        Experience real estate investment without borders – invest, own, and manage with the security of Solana's blockchain technology.
+                        Experience real estate investment without borders – invest, own, and manage with the security of Base blockchain technology.
                     </p>
                 </div>
             </div>
